@@ -1,0 +1,2 @@
+The first project, as per curriculum, is focused on making a mini-website that displays a few recipes to the users.
+I will do my best to implement all the skills I have learned so far - nothing less and nothing more. :)
