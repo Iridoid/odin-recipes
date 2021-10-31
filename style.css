@@ -1,0 +1,19 @@
+.header {
+    font-family: 'Times New Roman';
+    text-align: center;
+    color: rgb(255, 241, 215);
+    background-color: #a37b4d91;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #40e0d055;
+}
+
+p,
+ul,
+ol {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #faf3d399;
+    color: rgb(199, 177, 140);
+}
